@@ -14,7 +14,7 @@
           <mxGeometry x="438" y="233" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NjAqU9Y5rHBkyYTPuW-a-5" value="模型训练与预测" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#f8cecc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
-          <mxGeometry x="614" y="296" width="146" height="60" as="geometry" />
+          <mxGeometry x="528" y="233" width="146" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
