@@ -4,20 +4,17 @@
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
-        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-1" value="" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;strokeColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#BABABA;points=[];verticalAlign=middle;stackBorder=10;stackSpacing=-10;resizable=1;" parent="1" vertex="1">
-          <mxGeometry x="219" y="111" width="388" height="100" as="geometry" />
+        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-2" value="数据采集" style="shape=step;perimeter=stepPerimeter;strokeColor=#6C8EBF;fontFamily=Helvetica;fontSize=14;fontColor=#6C8EBF;fillColor=#dae8fc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
+          <mxGeometry x="121" y="269" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-2" value="数据采集" style="shape=step;perimeter=stepPerimeter;strokeColor=#6C8EBF;fontFamily=Helvetica;fontSize=14;fontColor=#6C8EBF;fillColor=#dae8fc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="NjAqU9Y5rHBkyYTPuW-a-1" vertex="1">
-          <mxGeometry x="10" y="30" width="100" height="60" as="geometry" />
+        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-3" value="数据预处理" style="shape=step;perimeter=stepPerimeter;strokeColor=#82B366;fontFamily=Helvetica;fontSize=14;fontColor=#82B366;fillColor=#d5e8d4;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
+          <mxGeometry x="249" y="270" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-3" value="数据预处理" style="shape=step;perimeter=stepPerimeter;strokeColor=#82B366;fontFamily=Helvetica;fontSize=14;fontColor=#82B366;fillColor=#d5e8d4;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="NjAqU9Y5rHBkyYTPuW-a-1" vertex="1">
-          <mxGeometry x="100" y="30" width="100" height="60" as="geometry" />
+        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-4" value="模型搭建" style="shape=step;perimeter=stepPerimeter;strokeColor=#D6B656;fontFamily=Helvetica;fontSize=14;fontColor=#D6B656;fillColor=#fff2cc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
+          <mxGeometry x="427" y="290" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-4" value="模型搭建" style="shape=step;perimeter=stepPerimeter;strokeColor=#D6B656;fontFamily=Helvetica;fontSize=14;fontColor=#D6B656;fillColor=#fff2cc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="NjAqU9Y5rHBkyYTPuW-a-1" vertex="1">
-          <mxGeometry x="190" y="30" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-5" value="模型训练与预测" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#f8cecc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="NjAqU9Y5rHBkyYTPuW-a-1" vertex="1">
-          <mxGeometry x="280" y="30" width="98" height="60" as="geometry" />
+        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-5" value="模型训练与预测" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#f8cecc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
+          <mxGeometry x="629" y="302" width="146" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
