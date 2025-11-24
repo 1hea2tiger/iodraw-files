@@ -85,10 +85,10 @@
             <mxPoint x="88" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WzbCM6OdOPhx-5a77iL0-27" value="" style="endArrow=classic;html=1;rounded=1;opacity=70;fillColor=#f8cecc;strokeColor=#b85450;curved=0;strokeWidth=3;startSize=6;endSize=0;" edge="1" parent="1">
+        <mxCell id="WzbCM6OdOPhx-5a77iL0-27" value="" style="endArrow=classic;html=1;rounded=1;opacity=70;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=0;strokeWidth=3;startSize=6;endSize=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="98" y="550" as="sourcePoint" />
-            <mxPoint x="98" y="570" as="targetPoint" />
+            <mxPoint x="88" y="570" as="sourcePoint" />
+            <mxPoint x="88" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
