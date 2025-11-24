@@ -37,7 +37,7 @@
         <mxCell id="YokqWoJS1iZ05jsfTEA6-8" value="I分支网络&lt;div&gt;根据P取值分别预测&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="394" y="706" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YokqWoJS1iZ05jsfTEA6-9" value="I分支网络&lt;div&gt;根据P取值分别预测&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YokqWoJS1iZ05jsfTEA6-9" value="预测过程施加物理约束" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="428" y="853" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
