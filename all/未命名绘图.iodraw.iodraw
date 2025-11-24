@@ -91,7 +91,7 @@
             <mxPoint x="68" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WzbCM6OdOPhx-5a77iL0-29" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Heat exchanger&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WzbCM6OdOPhx-5a77iL0-29" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;b&gt;Heat exchanger&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="21.25" y="480" width="112.5" height="30" as="geometry" />
         </mxCell>
       </root>
