@@ -100,6 +100,12 @@
         <mxCell id="WzbCM6OdOPhx-5a77iL0-31" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;direction=south;fillStyle=solid;gradientColor=#00FF80;gradientDirection=east;fillColor=default;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="257.5" y="530" width="25" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="WzbCM6OdOPhx-5a77iL0-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="450" as="sourcePoint" />
+            <mxPoint x="240" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
