@@ -148,11 +148,14 @@
             <mxPoint x="230" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WzbCM6OdOPhx-5a77iL0-45" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="144.23" y="750" width="63.53" height="40" as="geometry" />
+        <mxCell id="WzbCM6OdOPhx-5a77iL0-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="144.23" y="740" width="35.77" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WzbCM6OdOPhx-5a77iL0-44" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
-          <mxGeometry x="146" y="710" width="60" height="60" as="geometry" />
+        <mxCell id="WzbCM6OdOPhx-5a77iL0-45" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;direction=west;" vertex="1" parent="WzbCM6OdOPhx-5a77iL0-46">
+          <mxGeometry y="25" width="35.77" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="WzbCM6OdOPhx-5a77iL0-44" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="WzbCM6OdOPhx-5a77iL0-46">
+          <mxGeometry x="0.9965827168267019" width="33.78246497717614" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
