@@ -149,7 +149,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WzbCM6OdOPhx-5a77iL0-43" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.sort;" vertex="1" parent="1">
-          <mxGeometry x="126" y="720" width="100" height="100" as="geometry" />
+          <mxGeometry x="126.47" y="740" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WzbCM6OdOPhx-5a77iL0-44" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="146" y="710" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
