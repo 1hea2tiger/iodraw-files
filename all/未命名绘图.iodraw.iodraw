@@ -34,7 +34,7 @@
         <mxCell id="YokqWoJS1iZ05jsfTEA6-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=20;" vertex="1" parent="1">
           <mxGeometry x="338" y="646" width="124" height="248" as="geometry" />
         </mxCell>
-        <mxCell id="YokqWoJS1iZ05jsfTEA6-8" value="I分支网络" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YokqWoJS1iZ05jsfTEA6-8" value="I分支网络&lt;div&gt;根据P取值分别预测&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="396" y="665" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
