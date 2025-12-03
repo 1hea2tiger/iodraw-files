@@ -214,8 +214,8 @@
         <mxCell id="WzbCM6OdOPhx-5a77iL0-77" value="&lt;b&gt;Tinit&amp;gt;50℃&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="432" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WzbCM6OdOPhx-5a77iL0-78" value="&lt;b&gt;Tinit&amp;gt;50℃&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1078" y="434" width="60" height="30" as="geometry" />
+        <mxCell id="WzbCM6OdOPhx-5a77iL0-78" value="&lt;b&gt;Tinit&amp;lt;50℃&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1078" y="430" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
