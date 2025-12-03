@@ -212,7 +212,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WzbCM6OdOPhx-5a77iL0-77" value="Tinit&amp;gt;50℃" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="965" y="390" width="60" height="30" as="geometry" />
+          <mxGeometry x="893" y="434" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
