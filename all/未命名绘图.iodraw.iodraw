@@ -209,13 +209,7 @@
           <mxGeometry x="843" y="528" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WzbCM6OdOPhx-5a77iL0-67" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;冷启动&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="984" y="684" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WzbCM6OdOPhx-5a77iL0-68" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="982" y="619" as="sourcePoint" />
-            <mxPoint x="1018.5" y="534.5" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="901" y="620" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
